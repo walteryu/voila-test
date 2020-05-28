@@ -1,4 +1,25 @@
-# Voila application deployed on Heroku
+# Jupyter Dashboard - Voila
+
+## Introduction
+This notebook is a dashboard publication tool via Jupyter-Voila. It is developed based on this [tutorial](https://github.com/duarteocarmo/interactive-dashboard-post) by Duarte O. Carmo.
+
+He has also published an article to outline his tutorial [here](https://pbpython.com/interactive-dashboards.html).
+
+This notebook is organized into modules to complete the following tasks:
+
+1. Data Analysis
+2. Data Visualization
+3. Dashboard Publication
+
+## VTA Open Data
+
+This dashboard visualizes cumulative monthly ridership from the VTA Open Data [Portal](http://data.vta.org/). The Portal is described as "central location for access to VTA's open data, including transit, active transportation, congestion management and more."
+
+The [monthly ridership data](http://data.vta.org/datasets/ridership-by-route-cumulative-monthly) includes fields for train route, line type, ridership and cumulative monthly period. It consists of data from 2013 to 2018; chart below shows monthly cumulative passenger boarding count by VTA train line type.
+
+## Original README
+
+## Voila application deployed on Heroku
 
 This is an example of Voila deployed on Heroku, try it out: https://voila-heroku-demo.herokuapp.com
 
