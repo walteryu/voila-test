@@ -1,9 +1,7 @@
 # Jupyter Dashboard - Voila
 
 ## Introduction
-This notebook is a dashboard publication tool via Jupyter-Voila. It is developed based on this [tutorial](https://github.com/duarteocarmo/interactive-dashboard-post) by Duarte O. Carmo.
-
-He has also published an article to outline his tutorial [here](https://pbpython.com/interactive-dashboards.html).
+This notebook is a dashboard publication tool via Jupyter-Voila. It is developed based on this [tutorial](https://github.com/voila-dashboards/voila-heroku) by Martin Renou.
 
 This notebook is organized into modules to complete the following tasks:
 
