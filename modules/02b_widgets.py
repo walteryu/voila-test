@@ -13,7 +13,7 @@ fig_hist.layout.height = 'auto'
 # page layout
 grid_layout = widgets.GridspecLayout(5, 3)
 
-grid_layout[:2, :] = fig_lines
+# grid_layout[:2, :] = fig_lines
 grid_layout[2:4, :] = fig_hist
 grid_layout[4, 1] = slider
 

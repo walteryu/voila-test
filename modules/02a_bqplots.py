@@ -11,6 +11,8 @@ x, y = seed_data(2000)
 # create histogram
 fig_hist = plt.figure(title='Histogram')
 hist = plt.hist(y, bins=25)
+
+# histogram bins
 hist.bins = 10;
 
 # create histogram slider
