@@ -9,6 +9,15 @@ This notebook is organized into modules to complete the following tasks:
 2. Data Visualization
 3. Dashboard Publication
 
+## Notebook Modules
+
+This repository is organized into the following folders:
+
+1. Data - Contains CSV files used for analysis
+2. Modules (Notebook) - Individual modules used for data analysis
+3. Modules (Voila) - Individual modules used for data publication
+4. Notebooks - Voila publishes from file named "bqplot.ipynb"
+
 ## VTA Open Data
 
 This dashboard visualizes cumulative monthly ridership from the VTA Open Data [Portal](http://data.vta.org/). The Portal is described as "central location for access to VTA's open data, including transit, active transportation, congestion management and more."
