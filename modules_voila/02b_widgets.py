@@ -1,3 +1,6 @@
+# 02b - create line chart and layout
+
+# vta data page layout
 widgets.link((hist, 'bins'), (slider, 'value'))
 
 # create line plot
